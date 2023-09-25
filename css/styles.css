@@ -73,3 +73,10 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+#me {
+	width: 256px;
+	height: auto;
+	border-radius: 50%;
+	align-self: center;
+}
